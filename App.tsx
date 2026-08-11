@@ -11,7 +11,7 @@ export default function Home() {
 
   function handleSaveLocation() {
     console.log("Localização salva:", { location, address });
-    // Adicione aqui a lógica para persistir os dados (API, AsyncStorage, etc.)
+   
   }
 
   return (
